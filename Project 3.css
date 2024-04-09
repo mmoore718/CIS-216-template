@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Famous California National Parks</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <link href="style mini 3.css" rel="stylesheet">
+
+       <style>
+        body {
+            background-color: #DECBBA;
+        }
+
+        p {
+            color: #5A3000;
+            font-size: 14px;
+        }
+
+        h3 {
+            color: #1C3F04;
+            font-size: 30px;
+        }
+
+        ol {
+            color: #3F3831;
+            font-size: 20px;
+        }
+       </style>
+    </head>
+    <body>
+        <h1>Famous California National Parks</h1>
+        <figure>
+            <div class="grid-container">
+            <div class="img-with-text">
+                <img 
+                src="c:\Users\maddi\Downloads\uiuc app\yosemite.jpg" 
+                alt="California National Park"
+                width="540" height="380">
+                <p style="color: #611919; font-style: italic;">Yosemite National Park</p>
+            </div>
+            <div class="img-with-text">
+                <img 
+                src="c:\Users\maddi\Downloads\uiuc app\redwood.jpg" 
+                alt="Redwood trees"
+                width="540" height="380">
+                <p style="color: #611919; font-style: italic;">Redwood National Park</p>
+            </div>
+            <div class="img-with-text">
+                <img 
+                src="c:\Users\maddi\Downloads\uiuc app\deathvalley.webp" 
+                alt="death valley"
+                width="540" height="380">
+                <p style="color: #611919; font-style: italic;">Death Valley National Park</p>
+            </div>
+            </div> 
+        </figure>
+        <h2 id="h2">YOSEMITE NATIONAL PARK</h2>
+        <p>
+            Cascading showstoppers, towering sequoias, and glistening river rocks await at Yosemite, one of California's most praised national parks. The stellar jagged rocks, sky-high waterfalls, and lush forests will leave you breathless.
+        </p>
+        <p>
+            Yosemite Falls cascades downwards to earth at a jaw-dropping 2,425 feet. The fall—composed of three separate sections—is the highest waterfall in the national park. Although a year-round attraction, the prime time to visit Yosemite Falls is in May, while melting snow feeds the striking waterflow.
+        </p>
+
+        <h2 id="h2">REDWOOD NATIONAL AND STATE PARK</h2>
+        <p>When at the Redwood National and State Parks, you’ll discover prairies, oak woodlands, and soaring tree hills. Soak up the ancient wisdom of the twisting redwoods as you meander through the majestic forests. Home to the tallest trees on Earth, Redwood National and State Parks is found along 200 miles of hiking and biking pathways. Be on the lookout for black bears, gray whales, and anemones. </p>
+
+        <h2 id="h2">DEATH VALLEY NATIONAL PARK</h2>
+        <p>Run through the undulating dunes of Death Valley, nestled in between the looming sequoias of the California-Nevada border. The Mesquite Flat Sand Dunes--located east of Stovepipe Wells—are one of the park’s most beautiful sites. Arrive at sunrise to experience the dunes amidst the vibrant hues of orange and pink. Curving shadows lead you to peaks with unbelievable backdrops, granting you a brief moment alone with the desert scenery.</p>
+
+        <h3>WHAT TO BRING!</h3>
+        <ol type="i">
+            <li id="brown-bullet">Backpack with waist straps.</li>
+            <li>Sun Protection. a. Sunscreen.</li>
+            <li>Insulation.</li>
+            <li>Headlamp or flashlight.</li>
+            <li>First-Aid Basic Care Supplies. </li>
+            <li>Nutrition.</li>
+        </ol>
+
+
+    </body>
+</html>
+
